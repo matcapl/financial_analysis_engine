@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+
+# Jupyter Notebooks Checkpoints (if used)
+.ipynb_checkpoints/
+
+# VSCode / Codium
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Output, logs
+logs/
+output/
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log
