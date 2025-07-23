@@ -30,3 +30,9 @@ node_modules/
 dist/
 build/
 npm-debug.log
+
+# Do not commit raw input files
+data/
+*.xlsx
+*.pdf
+
